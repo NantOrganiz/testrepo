@@ -21,6 +21,14 @@
     </form>
 
 <p>Commit 2</p>
+<p><?php $a="anjahdjhqkjfhskjfhkls";
+		 echo strlen($a);
+		 echo strtoupper($a);
+		 echo "</br>";
+		 $a=['koba','be','fgd'];
+		 foreach ($a as $key) {
+		  	echo $key.'</br>';
+		  } ?></p>
 
 
 
